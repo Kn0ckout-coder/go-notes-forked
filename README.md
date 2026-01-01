@@ -42,3 +42,4 @@ export DB_SSLMODE=disable
 
 Para executar, basta executar no terminal `./go-notes-app`. 
 Isto irá arrancar um servidor na porta definida em SERVER_PORT (por defeito :8080).
+Pipeline Tests
